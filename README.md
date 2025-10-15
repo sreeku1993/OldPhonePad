@@ -16,7 +16,7 @@ key, and a send button.
 ```bash
 dotnet run --project OldPhonePad
 
-## How to Test
+# How to Test
 ```bash
 dotnet test
 
